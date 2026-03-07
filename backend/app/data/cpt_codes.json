@@ -1,0 +1,86 @@
+[
+  {
+    "cpt_code": "99213",
+    "procedure_name": "Established Patient Office Visit (20-29 min)",
+    "typical_cash_price_low": 95,
+    "typical_cash_price_high": 220,
+    "medicare_rate": 102
+  },
+  {
+    "cpt_code": "99214",
+    "procedure_name": "Established Patient Office Visit (30-39 min)",
+    "typical_cash_price_low": 130,
+    "typical_cash_price_high": 310,
+    "medicare_rate": 143
+  },
+  {
+    "cpt_code": "99385",
+    "procedure_name": "Preventive Visit New Patient (18-39)",
+    "typical_cash_price_low": 180,
+    "typical_cash_price_high": 420,
+    "medicare_rate": 0
+  },
+  {
+    "cpt_code": "80053",
+    "procedure_name": "Comprehensive Metabolic Panel",
+    "typical_cash_price_low": 25,
+    "typical_cash_price_high": 130,
+    "medicare_rate": 14
+  },
+  {
+    "cpt_code": "80061",
+    "procedure_name": "Lipid Panel",
+    "typical_cash_price_low": 18,
+    "typical_cash_price_high": 90,
+    "medicare_rate": 18
+  },
+  {
+    "cpt_code": "83036",
+    "procedure_name": "Hemoglobin A1C",
+    "typical_cash_price_low": 18,
+    "typical_cash_price_high": 85,
+    "medicare_rate": 13
+  },
+  {
+    "cpt_code": "71046",
+    "procedure_name": "Chest X-Ray 2 Views",
+    "typical_cash_price_low": 90,
+    "typical_cash_price_high": 420,
+    "medicare_rate": 35
+  },
+  {
+    "cpt_code": "93000",
+    "procedure_name": "Electrocardiogram Complete",
+    "typical_cash_price_low": 45,
+    "typical_cash_price_high": 190,
+    "medicare_rate": 17
+  },
+  {
+    "cpt_code": "87635",
+    "procedure_name": "COVID-19 Test",
+    "typical_cash_price_low": 35,
+    "typical_cash_price_high": 140,
+    "medicare_rate": 42
+  },
+  {
+    "cpt_code": "12001",
+    "procedure_name": "Simple Laceration Repair",
+    "typical_cash_price_low": 180,
+    "typical_cash_price_high": 860,
+    "medicare_rate": 162
+  },
+  {
+    "cpt_code": "70450",
+    "procedure_name": "CT Head Without Contrast",
+    "typical_cash_price_low": 280,
+    "typical_cash_price_high": 1600,
+    "medicare_rate": 145
+  },
+  {
+    "cpt_code": "73721",
+    "procedure_name": "MRI Lower Extremity",
+    "typical_cash_price_low": 480,
+    "typical_cash_price_high": 2600,
+    "medicare_rate": 290
+  }
+]

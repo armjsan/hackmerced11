@@ -1,0 +1,71 @@
+{
+  "walmart": {
+    "display_name": "Walmart Pharmacy",
+    "pharmacy_type": "retail",
+    "markup_multiplier": 2.7,
+    "dispensing_fee": 2.0,
+    "shipping_fee": 0,
+    "coupon_available": false
+  },
+  "costco": {
+    "display_name": "Costco Pharmacy",
+    "pharmacy_type": "retail",
+    "markup_multiplier": 2.5,
+    "dispensing_fee": 2.5,
+    "shipping_fee": 0,
+    "coupon_available": true,
+    "coupon_name": "Member Rx Savings"
+  },
+  "cvs": {
+    "display_name": "CVS Pharmacy",
+    "pharmacy_type": "retail",
+    "markup_multiplier": 3.4,
+    "dispensing_fee": 3.0,
+    "shipping_fee": 0,
+    "coupon_available": true,
+    "coupon_name": "ExtraCare Rx"
+  },
+  "walgreens": {
+    "display_name": "Walgreens",
+    "pharmacy_type": "retail",
+    "markup_multiplier": 3.3,
+    "dispensing_fee": 2.8,
+    "shipping_fee": 0,
+    "coupon_available": true,
+    "coupon_name": "myWalgreens Rx"
+  },
+  "riteaid": {
+    "display_name": "Rite Aid",
+    "pharmacy_type": "retail",
+    "markup_multiplier": 3.2,
+    "dispensing_fee": 2.6,
+    "shipping_fee": 0,
+    "coupon_available": true,
+    "coupon_name": "Rx Savings Program"
+  },
+  "mark_cuban": {
+    "display_name": "Cost Plus Drugs",
+    "pharmacy_type": "online",
+    "markup_multiplier": 1.9,
+    "dispensing_fee": 3.0,
+    "shipping_fee": 5,
+    "coupon_available": false
+  },
+  "amazon": {
+    "display_name": "Amazon Pharmacy",
+    "pharmacy_type": "mail_order",
+    "markup_multiplier": 2.1,
+    "dispensing_fee": 2.5,
+    "shipping_fee": 0,
+    "coupon_available": true,
+    "coupon_name": "Prime Rx"
+  },
+  "capsule": {
+    "display_name": "Capsule",
+    "pharmacy_type": "online",
+    "markup_multiplier": 2.4,
+    "dispensing_fee": 3.0,
+    "shipping_fee": 0,
+    "coupon_available": false
+  }
+}

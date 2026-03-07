@@ -1,0 +1,222 @@
+[
+  {
+    "ndc": "00071015523",
+    "brand_name": "Lipitor",
+    "generic_name": "Atorvastatin",
+    "dosage_form": "TABLET",
+    "strength": "20 mg",
+    "manufacturer": "Viatris",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.11
+  },
+  {
+    "ndc": "00071015524",
+    "brand_name": "Atorvastatin",
+    "generic_name": "Atorvastatin",
+    "dosage_form": "TABLET",
+    "strength": "20 mg",
+    "manufacturer": "Teva",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.04
+  },
+  {
+    "ndc": "00406788301",
+    "brand_name": "Glucophage",
+    "generic_name": "Metformin",
+    "dosage_form": "TABLET",
+    "strength": "500 mg",
+    "manufacturer": "Bristol Myers Squibb",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.08
+  },
+  {
+    "ndc": "00406788302",
+    "brand_name": "Metformin",
+    "generic_name": "Metformin",
+    "dosage_form": "TABLET",
+    "strength": "500 mg",
+    "manufacturer": "Aurobindo",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.03
+  },
+  {
+    "ndc": "00173068500",
+    "brand_name": "Zestril",
+    "generic_name": "Lisinopril",
+    "dosage_form": "TABLET",
+    "strength": "10 mg",
+    "manufacturer": "AstraZeneca",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.07
+  },
+  {
+    "ndc": "00173068501",
+    "brand_name": "Lisinopril",
+    "generic_name": "Lisinopril",
+    "dosage_form": "TABLET",
+    "strength": "10 mg",
+    "manufacturer": "Lupin",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.02
+  },
+  {
+    "ndc": "00603475721",
+    "brand_name": "Synthroid",
+    "generic_name": "Levothyroxine",
+    "dosage_form": "TABLET",
+    "strength": "50 mcg",
+    "manufacturer": "AbbVie",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.16
+  },
+  {
+    "ndc": "00603475722",
+    "brand_name": "Levothyroxine",
+    "generic_name": "Levothyroxine",
+    "dosage_form": "TABLET",
+    "strength": "50 mcg",
+    "manufacturer": "Mylan",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.05
+  },
+  {
+    "ndc": "00093015005",
+    "brand_name": "Amoxil",
+    "generic_name": "Amoxicillin",
+    "dosage_form": "CAPSULE",
+    "strength": "500 mg",
+    "manufacturer": "SK Life",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.20
+  },
+  {
+    "ndc": "00093015006",
+    "brand_name": "Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "dosage_form": "CAPSULE",
+    "strength": "500 mg",
+    "manufacturer": "Sandoz",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.05
+  },
+  {
+    "ndc": "00186096105",
+    "brand_name": "Norvasc",
+    "generic_name": "Amlodipine",
+    "dosage_form": "TABLET",
+    "strength": "5 mg",
+    "manufacturer": "Pfizer",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.14
+  },
+  {
+    "ndc": "00186096106",
+    "brand_name": "Amlodipine",
+    "generic_name": "Amlodipine",
+    "dosage_form": "TABLET",
+    "strength": "5 mg",
+    "manufacturer": "Torrent",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.03
+  },
+  {
+    "ndc": "00054001825",
+    "brand_name": "Prilosec",
+    "generic_name": "Omeprazole",
+    "dosage_form": "CAPSULE",
+    "strength": "20 mg",
+    "manufacturer": "AstraZeneca",
+    "is_generic": false,
+    "rx_required": false,
+    "nadac_per_unit": 0.22
+  },
+  {
+    "ndc": "00054001826",
+    "brand_name": "Omeprazole",
+    "generic_name": "Omeprazole",
+    "dosage_form": "CAPSULE",
+    "strength": "20 mg",
+    "manufacturer": "Dr Reddy's",
+    "is_generic": true,
+    "rx_required": false,
+    "nadac_per_unit": 0.06
+  },
+  {
+    "ndc": "00143121101",
+    "brand_name": "ProAir HFA",
+    "generic_name": "Albuterol",
+    "dosage_form": "INHALER",
+    "strength": "90 mcg",
+    "manufacturer": "Teva",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 0.95
+  },
+  {
+    "ndc": "00143121102",
+    "brand_name": "Albuterol",
+    "generic_name": "Albuterol",
+    "dosage_form": "INHALER",
+    "strength": "90 mcg",
+    "manufacturer": "Cipla",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 0.41
+  },
+  {
+    "ndc": "00378012305",
+    "brand_name": "Jardiance",
+    "generic_name": "Empagliflozin",
+    "dosage_form": "TABLET",
+    "strength": "10 mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 12.5
+  },
+  {
+    "ndc": "00024050009",
+    "brand_name": "Humalog",
+    "generic_name": "Insulin Lispro",
+    "dosage_form": "INJECTION",
+    "strength": "100 units/mL",
+    "manufacturer": "Eli Lilly",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 7.8
+  },
+  {
+    "ndc": "00603060121",
+    "brand_name": "Insulin Lispro",
+    "generic_name": "Insulin Lispro",
+    "dosage_form": "INJECTION",
+    "strength": "100 units/mL",
+    "manufacturer": "Lilly",
+    "is_generic": true,
+    "rx_required": true,
+    "nadac_per_unit": 4.2
+  },
+  {
+    "ndc": "00456050501",
+    "brand_name": "Vyvanse",
+    "generic_name": "Lisdexamfetamine",
+    "dosage_form": "CAPSULE",
+    "strength": "30 mg",
+    "manufacturer": "Takeda",
+    "is_generic": false,
+    "rx_required": true,
+    "nadac_per_unit": 6.8
+  }
+]
