@@ -37,7 +37,14 @@ def _send_email(to, subject, body):
 
 
 def _format_alert_email(user, event_type):
-    color = '#dc3545' if event_type in ('A_LOCKOUT', 'B_FAIL') else '#ffc107'
+    colors = {
+        'A_LOCKOUT': '#dc3545',
+        'B_FAIL': '#dc3545',
+        'DUMMY_REUSE': '#dc3545',
+        'USER_CREATED': '#17a2b8',
+        'PASSWORD_CHANGED': '#28a745',
+    }
+    color = colors.get(event_type, '#ffc107')
     return f"""
     <html>
     <body style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
